@@ -102,7 +102,7 @@ reportlab==3.5.34
 requests==2.22.0
 requests-unixsocket==0.2.0
 rope==0.18.0
-rsa==4.0
+rsa==4.1
 scipy==1.5.4
 SecretStorage==2.3.1
 simplegeneric==0.8.1
