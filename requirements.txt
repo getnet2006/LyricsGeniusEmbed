@@ -71,7 +71,7 @@ parso==0.5.2
 pexpect==4.6.0
 pickleshare==0.7.5
 Pillow==7.0.0
-pipenv==2020.11.4
+pipenv==2022.1.8
 proglog==0.1.9
 prompt-toolkit==2.0.10
 protobuf==3.6.1
