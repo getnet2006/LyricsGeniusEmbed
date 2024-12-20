@@ -74,7 +74,7 @@ Pillow==7.0.0
 pipenv==2020.11.4
 proglog==0.1.9
 prompt-toolkit==2.0.10
-protobuf==3.6.1
+protobuf==3.18.3
 pyasn1==0.4.2
 pyasn1-modules==0.2.1
 pycairo==1.16.2
